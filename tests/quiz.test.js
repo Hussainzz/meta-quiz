@@ -73,7 +73,7 @@ describe("POST /check-performance", () => {
   });
 
 
-  it('should decrease difficulty level from Medium to Hard', async () => {
+  it('should increase difficulty level from Medium to Hard', async () => {
     const payload = {
       currentDifficulty: 'Medium',
       currentAttemptedQuestions: [

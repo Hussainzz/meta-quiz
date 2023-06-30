@@ -45,7 +45,7 @@ Meta Quiz Listening on 8006
     ✓ should increase difficulty level from Easy to Medium (24 ms)
     ✓ should decrease difficulty level from Hard to Medium (2 ms)
     ✓ should decrease difficulty level from Medium to Easy (1 ms)
-    ✓ should decrease difficulty level from Medium to Hard (1 ms)
+    ✓ should increase difficulty level from Medium to Hard (1 ms)
 
 Test Suites: 1 passed, 1 total
 Tests:       4 passed, 4 total
