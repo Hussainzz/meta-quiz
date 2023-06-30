@@ -1,6 +1,6 @@
 ## META QUIZ 🔮
 
-###Installation
+### Installation
 
 ```
 > npm install
